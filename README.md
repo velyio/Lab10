@@ -2,7 +2,9 @@
 
 Angel Cortez Gutierrez
 
-[Canny Link](https://cse110-lab10-velyio.canny.io/)
+[Roadmap Link](https://cse110-lab10-velyio.canny.io/)
+
+[Feature Request Link](https://cse110-lab10-velyio.canny.io/feature-requests)
 
 [Site Link](https://velyio.github.io/Lab10/)
 
