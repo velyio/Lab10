@@ -1,4 +1,6 @@
 # Lab 10 - Starter
 
-(canny link)[https://cse110-lab10-velyio.canny.io/]
+[Canny Link](https://cse110-lab10-velyio.canny.io/)
+
+[Site Link](https://velyio.github.io/Lab10/)
 
